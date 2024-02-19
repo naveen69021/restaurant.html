@@ -1,0 +1,122 @@
+nav{
+    background-color: rgb(255, 246, 232);
+}
+
+.bar{
+    background-color: navy;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+.img1{
+     text-align: center;
+     margin-top: 25px;
+     
+}
+
+a{
+  text-decoration: underline;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 0px 20px;
+  
+}
+
+
+.bar2{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.img2{
+    margin-top: 25px;
+}
+
+.story{
+    margin-top: 50px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+}
+
+.img3{
+    margin-top: 60px;
+    display: flex;
+
+}
+
+#sp1{
+background-color: navy;
+color: whitesmoke;
+font-size: 30px;
+padding: 0px 10px 10px 20px;
+}
+
+.img4{
+    margin-bottom: 50px ;
+
+}
+.sp2{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+}
+
+.img5{
+    text-align: center;
+    margin: 50px;
+    margin-bottom: 50px;
+}
+
+footer{
+    display: flex;
+    background-color: #211d52;
+    color: bisque;
+    padding: 40px 40px 40px 40px;
+    font-size: 25px;
+    
+}
+
+.lu{
+list-style: none;
+
+}
+
+#inks{
+color: bisque;
+text-decoration: underline;
+}
+
+.bb{
+    padding-left: 300px;
+}
+
+.lg{
+padding-left: 300px;
+}
+
+i{
+    font-size:30px;
+    margin-top: 30px;
+}
+.copy{
+    background-color: #211d52;
+    border-top: 1px solid gainsboro;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding-left: 450px;
+    color: whitesmoke;
+}
+
+#mail{
+    background-color:#211d52 ;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+

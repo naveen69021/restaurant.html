@@ -1,0 +1,172 @@
+nav{
+    background-color: rgb(255, 246, 232);
+}
+
+
+.bar{
+    background-color: navy;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+.img1{
+     text-align: center;
+     margin-top: 25px;
+     
+}
+
+a{
+  text-decoration: underline;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 0px 20px;
+  
+}
+
+
+.bar2{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.a{
+    margin: 50px 50px 50px 50px;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.img2{
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.b{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+#aa{
+    color: yellowgreen;
+    font-size: 70px;
+}
+
+.marq{
+    
+    background-color: rgb(108, 145, 56);
+    padding: 30px;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+main{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+
+.wat3{
+border: 1px solid gray;
+
+}
+
+.pp{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 25%;
+    margin: 0%;
+}
+
+.qq{
+font-size: 35px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding-left: 25%;
+margin: 0%;
+}
+
+.btn{
+    font-size: 25px;
+    margin-left: 25%;
+    margin-top: 10px;
+    background-color: rgb(51, 248, 51);
+    border: none;
+    border-radius: 20px;
+}
+
+.oo{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+
+}
+
+#ara{
+    text-align: center;
+}
+
+#ww{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+
+#ppp{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+footer{
+    display: flex;
+    background-color: #211d52;
+    color: bisque;
+    padding: 40px 40px 40px 40px;
+    font-size: 25px;
+    
+}
+
+.lu{
+    list-style: none;
+    
+    }
+    
+    #inks{
+    color: bisque;
+    text-decoration: underline;
+    }
+    
+    .bb{
+        padding-left: 300px;
+    }
+
+    .lg{
+        padding-left: 300px;
+        }
+        
+        i{
+            font-size:30px;
+            margin-top: 30px;
+        }
+        .copy{
+            background-color: #211d52;
+            border-top: 1px solid gainsboro;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: larger;
+            padding-left: 450px;
+            color: whitesmoke;
+        }
+        
+        #mail{
+            background-color:#211d52 ;
+            border: 1px solid whitesmoke;
+            border-radius: 10px;
+            font-size: 25px;
+            margin-top: 15px;
+        }

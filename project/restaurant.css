@@ -1,0 +1,26 @@
+#menu{
+    width: 35px;
+    height: 5px;
+    background-color: whitesmoke;
+    margin: 10px 0px 0px 0px;
+  }
+
+.logo{
+     font-size: 20px;
+     color: aliceblue;
+     padding-bottom: 0px;
+     padding-left: 450px;
+     margin: 0px;
+
+  }
+
+  nav{
+      background-color: black;
+      text-align: center;
+      padding-left: 35px;
+      padding-top: 25px;
+  }
+  a{
+    color: whitesmoke;
+    text-decoration: none;
+  }

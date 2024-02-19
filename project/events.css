@@ -1,0 +1,45 @@
+nav{
+    background-color: rgb(255, 246, 232);
+}
+
+.bar{
+    background-color: navy;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+.img1{
+     text-align: center;
+     margin-top: 25px;
+     
+}
+
+a{
+  text-decoration: underline;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 0px 20px;
+  
+}
+
+
+.bar2{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+#head{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    padding: 50px 50px 50px 50px;
+}
+
+#head2{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
