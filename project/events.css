@@ -16,10 +16,11 @@ nav{
 }
 
 a{
-  text-decoration: underline;
+    text-decoration: none;
   color: black;
   font-size: 18px;
-  font-weight: 400;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
   padding: 0px 20px;
   
 }
@@ -28,18 +29,159 @@ a{
 .bar2{
     text-align: center;
     margin-top: 20px;
+    box-shadow: 0px 0px 15px 2px;
     
 }
 
 #head{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin: 50px 90px 50px 90px;
     font-weight: 900;
-    font-size: 30px;
-    padding: 50px 50px 50px 50px;
 }
 
-#head2{
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #211d52;
+    
+}
 
+.aa{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 25px;
+color: aliceblue;
+padding: 20px;
+}
+
+.mid{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    
+}
+
+.img2{
+margin-left: 70px;
+}
+
+.bb{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: 900;
+}
+
+.mid2{
+    display: flex;
+    background-color: #211d52;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.cc{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 800;
+    color: antiquewhite;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.last{
+    display: flex;
+
+}
+
+.dd{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: 900;
+padding-left: 60px;
+padding-right: 60px;
+background-color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    display: flex;
+    background-color: #211d52;
+    color: bisque;
+    padding: 40px 40px 40px 40px;
+    font-size: 25px;
+    
+}
+
+.lu{
+list-style: none;
+
+}
+
+#inks{
+color: bisque;
+text-decoration: underline;
+}
+
+.bb{
+    padding-left: 300px;
+}
+
+.lg{
+padding-left: 300px;
+}
+
+i{
+    font-size:30px;
+    margin-top: 30px;
+}
+.copy{
+    background-color: #211d52;
+    border-top: 1px solid gainsboro;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding-left: 450px;
+    color: whitesmoke;
+}
+
+#mail{
+    background-color:#211d52 ;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    font-size: 25px;
+    margin-top: 15px;
 }
 

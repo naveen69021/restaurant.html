@@ -17,10 +17,11 @@ nav{
 }
 
 a{
-  text-decoration: underline;
+  text-decoration: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 500;
   color: black;
   font-size: 18px;
-  font-weight: 400;
   padding: 0px 20px;
   
 }
@@ -29,6 +30,7 @@ a{
 .bar2{
     text-align: center;
     margin-top: 20px;
+    box-shadow: 0px 0px 15px 2px;
     
 }
 
@@ -74,8 +76,12 @@ main{
 }
 
 .wat3{
-border: 1px solid gray;
 
+transition: 1s;
+}
+
+.wat3 :hover{
+    transform: scale(1.1);
 }
 
 .pp{
@@ -100,6 +106,7 @@ margin: 0%;
     border: none;
     border-radius: 20px;
 }
+
 
 .oo{
     font-size: larger;
